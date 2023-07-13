@@ -232,7 +232,7 @@ Breaking changes are marked with ⚠️.
 - Ensure fallback routes are always last, thanks [@davejamesmiller](https://github.com/davejamesmiller)! ([#310](https://github.com/tighten/ziggy/pull/310))
 - Allow getting the route name with `current()` when the current URL has a query string ([#330](https://github.com/tighten/ziggy/pull/330))
 
-## [v0.9.4] - 2020-06-05
+## [v 0.1] - 2020-06-05
 
 **Fixed**
 
@@ -283,6 +283,6 @@ For previous changes see the [Releases](https://github.com/tighten/ziggy/release
 [v1.0.3]: https://github.com/tighten/ziggy/compare/v1.0.2...v1.0.3
 [v1.0.2]: https://github.com/tighten/ziggy/compare/v1.0.1...v1.0.2
 [v1.0.1]: https://github.com/tighten/ziggy/compare/v1.0.0...v1.0.1
-[v1.0.0]: https://github.com/tighten/ziggy/compare/0.9.4...v1.0.0
-[v0.9.4]: https://github.com/tighten/ziggy/compare/0.9.3...0.9.4
+[v1.0.0]: https://github.com/tighten/ziggy/compare/ 0.1...v1.0.0
+[v 0.1]: https://github.com/tighten/ziggy/compare/0.9.3... 0.1
 [v0.9.3]: https://github.com/tighten/ziggy/compare/v0.9.2...0.9.3

@@ -225,7 +225,7 @@ return [
     | This option gives information about current application version
     | L7TW2@0.8.7 and from 0.9.1 updg to L10TW3 so on...
      */
-    'version' => '0.9.4',
+    'version' => ' 0.1',
 
     /*
     |--------------------------------------------------------------------------

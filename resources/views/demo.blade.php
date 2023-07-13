@@ -13,7 +13,7 @@ $links = [
     'title' =>'View Ready made portfolio'
   ],
    [
-    'url'=> url('https://codehas.gitbook.io/repair-box/'),
+    'url'=> url('https://pronic.co.ke/'),
     'title' =>'Read RepairBox\'s  Documentation'
   ],
 ];
@@ -21,37 +21,37 @@ $links = [
 $faqs=[
   [
     'question' => 'if you have already a website or webpage or even made in WordPress for your business, how can use the repair box?',
-    'answer' => 'Yes, it can be used go to : <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#i-have-already-a-website-how-can-use-the-repair-box">https://codehas.gitbook.io/repair-box/faq#i-have-already-a-website-how-can-use-the-repair-box</a>'
+    'answer' => 'Yes, it can be used go to : <a class="text-blue-400" href="https://pronic.co.ke/faq#i-have-already-a-website-how-can-use-the-repair-box">https://pronic.co.ke/faq#i-have-already-a-website-how-can-use-the-repair-box</a>'
   ],
   [
     'question' => 'What is Workflow of repair box?',
-     'answer' => 'Yes, it can be used go to : <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#what-is-a-repair-boxs-workflow">https://codehas.gitbook.io/repair-box/faq#what-is-a-repair-boxs-workflow</a>'
+     'answer' => 'Yes, it can be used go to : <a class="text-blue-400" href="https://pronic.co.ke/faq#what-is-a-repair-boxs-workflow">https://pronic.co.ke/faq#what-is-a-repair-boxs-workflow</a>'
 
   ],
   [
     'question' => 'Looking for all features ?',
-     'answer' => 'Go to : <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/get-started/features">https://codehas.gitbook.io/repair-box/get-started/features</a>'
+     'answer' => 'Go to : <a class="text-blue-400" href="https://pronic.co.ke/get-started/features">https://pronic.co.ke/get-started/features</a>'
   ],
   [
     'question' => 'Looking for Version Change logs ?',
-     'answer' => 'Go to : <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/get-started/change-log">https://codehas.gitbook.io/repair-box/get-started/change-log</a>'
+     'answer' => 'Go to : <a class="text-blue-400" href="https://pronic.co.ke/">https://pronic.co.ke/</a>'
   ],
   [
     'question' => 'Where can get sample CSV files for import batch resource entries?',
-    'answer' => 'Go to : <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#where-can-get-sample-csv-files-for-import-batch-resource-entries">https://codehas.gitbook.io/repair-box/faq#where-can-get-sample-csv-files-for-import-batch-resource-entries</a>'
+    'answer' => 'Go to : <a class="text-blue-400" href="https://pronic.co.ke/faq#where-can-get-sample-csv-files-for-import-batch-resource-entries">https://pronic.co.ke/faq#where-can-get-sample-csv-files-for-import-batch-resource-entries</a>'
   ],
   [
-    'question' => 'How to frontend portfolio can be customized?',
-    'answer' => 'Read at: <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#how-to-frontend-portfolio-can-be-customized">https://codehas.gitbook.io/repair-box/faq#how-to-frontend-portfolio-can-be-customized</a>'
+    'question' => ' ',
+    'answer' => 'Read at: <a class="text-blue-400" href="https://pronic.co.ke/faq#how-to-frontend-portfolio-can-be-customized">https://pronic.co.ke/faq#how-to-frontend-portfolio-can-be-customized</a>'
   ],
    [
-    'question' => 'How to configured SMS sending gateways?',
-      'answer' => 'Read at: <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#how-to-configured-sms-sending-gateways">https://codehas.gitbook.io/repair-box/faq#how-to-configured-sms-sending-gateways</a>'
+    'question' => ' ',
+      'answer' => 'Read at: <a class="text-blue-400" href="https://pronic.co.ke/faq#how-to-configured-sms-sending-gateways">https://pronic.co.ke/faq#how-to-configured-sms-sending-gateways</a>'
 
   ],
   [
-      'question' => 'How to configure payment gateways?',
-        'answer' => 'Read at: <a class="text-blue-400" href="https://codehas.gitbook.io/repair-box/faq#how-to-configure-payment-gateways">https://codehas.gitbook.io/repair-box/faq#how-to-configure-payment-gateways</a>'
+      'question' => ' ',
+        'answer' => 'Read at: <a class="text-blue-400" href="https://pronic.co.ke/faq#how-to-configure-payment-gateways">https://pronic.co.ke/faq#how-to-configure-payment-gateways</a>'
 
   ]
 ];

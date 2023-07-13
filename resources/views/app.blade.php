@@ -20,9 +20,9 @@
 <body>
     @if(config('app.demo_mode'))
     <div class="bg-yellow-200 border border-yellow-400 text-black text-sm px-5 md:flex justify-between">
-      <span><a href="https://codehas.gitbook.io/repair-box/" target="_blank" rel="noopener">Click for documentation</a></span>
+      <span><a href="https://pronic.co.ke/" target="_blank" rel="noopener">Click for documentation</a></span>
       <span>Please fill valid/active email to get notification.</span>
-      <span>Bug report at <a href="mailto:info.codehas@gmail.com" rel="noopener" target="_blank">info.codehas@gmail.com</a></span>
+      <span>Bug report at <a href="mailto:info.pronic.co.ke" rel="noopener" target="_blank">info.pronic.co.ke</a></span>
       <span>v {{ config('app.version') }}</span>
   </div>
   @endif
