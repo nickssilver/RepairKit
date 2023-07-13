@@ -1,0 +1,101 @@
+/*-----UI----*/
+.layout-bg {}
+.sidebar-bg {background: #00172c;}
+.sidebar-icon-text-color {}
+.table-footer-bg {}
+
+.content-title {}
+.content-title-icon {}
+.content-card-body {}
+
+.card-footer {}
+.card-footer:sm {}
+
+.block-link-icon {}
+.form-description-text {}
+.form-description-head {}
+.form-input {}
+.form-label {}
+
+/* ---- router or navigation links */
+.router-link {}
+.router-link:focus {}
+.router-link.router-link-desktop {}
+.router-link.router-link-mobile {}
+.router-link.router-link-active, .router-link.router-link-exact-active {}
+.router-link:not(.router-link-active), .router-link:not(.router-link-exact-active) {}
+.router-link:not(.router-link-active):hover, .router-link:not(.router-link-exact-active):hover {}
+.router-link:not(.router-link-active):focus, .router-link:not(.router-link-exact-active):focus {}
+
+.btn {}
+.btn:focus {}
+.btn:disabled {}
+.btn.btn-white {}
+.btn.btn-white:not(:disabled):hover {}
+.btn.btn-white:not(:disabled):focus {}
+.btn.btn-blue {}
+.btn.btn-blue:not(:disabled):hover {}
+.btn.btn-blue:not(:disabled):active {}
+.btn.btn-blue:not(:disabled):focus {}
+.btn.btn-green {}
+.btn.btn-green:not(:disabled):hover {}
+.btn.btn-green:not(:disabled):active {}
+.btn.btn-green:not(:disabled):focus {}
+.btn.btn-yellow {}
+.btn.btn-yellow:not(:disabled):hover {}
+.btn.btn-yellow:not(:disabled):active {}
+.btn.btn-yellow:not(:disabled):focus {}
+.btn.btn-purple {}
+.btn.btn-purple:not(:disabled):hover {}
+.btn.btn-purple:not(:disabled):active {}
+.btn.btn-purple:not(:disabled):focus {}
+.btn.btn-red {}
+.btn.btn-red:not(:disabled):hover {}
+.btn.btn-red:not(:disabled):active {}
+.btn.btn-red:not(:disabled):focus {}
+
+.btn.btn-secondary {}
+.btn.btn-secondary:not(:disabled):hover {}
+.btn.btn-secondary:not(:disabled):active {}
+.btn.btn-secondary:not(:disabled):focus {}
+
+/* ----pagination-link------ */
+.pagination-link {}
+.pagination-link:not(:disabled):hover {}
+.pagination-link:not(:disabled):focus {}
+.pagination-link:not(:disabled):active {}
+.velmld-overlay {}
+
+.max-height-wrap {
+  maxheight: "200px";
+}
+
+
+
+/* ---scrollbar--- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a8a6a8;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #878587;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff;
+  border-radius: 0px;
+  box-shadow: inset 0px 0px 0px 0px #f0f0f0;
+}
+
+
+@media print {
+  .hide-in-print-screen {
+    display: none;
+  }
+}

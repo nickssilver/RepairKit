@@ -1,0 +1,50 @@
+{
+  "name": "dacoto/laravel-env-set",
+  "description": "A .env editor for Laravel",
+  "homepage": "https://dacoto.github.io/laravel-env-set/",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Cortés",
+      "email": "dacoto@dacoto.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dacoto\\EnvSet\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "dacoto\\EnvSet\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^10.8"
+  },
+  "require-dev": {
+    "orchestra/testbench": "^8.5",
+    "nunomaduro/larastan": "^2.6",
+    "pestphp/pest": "^2.5",
+    "pestphp/pest-plugin-laravel": "^2.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "dacoto\\EnvSet\\EnvSetServiceProvider"
+      ],
+      "aliases": {
+        "EnvSet": "dacoto\\EnvSet\\Facades\\EnvSet"
+      }
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  }
+}
