@@ -8,8 +8,8 @@ A repair kit is a system for booking and managing repair services. Where can cus
 It is a very clean and simple interface, where every technician can go to the workshop to handle repair orders assigned to that particular technician.
 In the workshop, the technician can update the repair log with customer notification on each update while repairing.
 
-Comprises of the following:
-1. System Requirements :- , a powerful web-based application designed to streamline repair services. To ensure a smooth installation and optimal performance
+## Comprises of the following:
+
 2. Features :- the ultimate solution for efficient repair service management. Our feature-rich web application empowers you with a wide range of tools and capabilities to streamline every aspect of your repair operations.
 3. Admin Dashboard :- Our web application not only offers powerful features but also provides an intuitive and user-friendly admin dashboard panel
 4. Repair Workshop :- a dedicated space designed specifically for technicians assigned with repair orders. Our workshop portal provides an efficient and user-friendly interface, empowering technicians to manage their assigned repair orders effectively.
@@ -28,7 +28,8 @@ Quick replies use to respond to customers while updating the repair log from the
 15. Repair orders (Admin area)
 16. Public Repair Booking
 17. Repair Tracking :- Anyone can track repair status including repair logs by entering a repair id.
-18. Used Technologies.
+    
+    ## Used Technologies.
 •	Laravel - PHP-Framework under MIT License
 •	Tailwind - CSS is self-described as a utility-first CSS framework under MIT License
 •	Vuejs - Vue.js is an open-source model–view–view model front-end JavaScript framework
