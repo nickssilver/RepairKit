@@ -30,8 +30,10 @@ Quick replies use to respond to customers while updating the repair log from the
 17. Repair Tracking :- Anyone can track repair status including repair logs by entering a repair id.
     
     ## Used Technologies.
-•	Laravel - PHP-Framework under MIT License
-•	Tailwind - CSS is self-described as a utility-first CSS framework under MIT License
-•	Vuejs - Vue.js is an open-source model–view–view model front-end JavaScript framework
+    •	Laravel - PHP-Framework under MIT License
+    
+    •	Tailwind - CSS is self-described as a utility-first CSS framework under MIT License
+    
+    •	Vuejs - Vue.js is an open-source model–view–view model front-end JavaScript framework
 
     
